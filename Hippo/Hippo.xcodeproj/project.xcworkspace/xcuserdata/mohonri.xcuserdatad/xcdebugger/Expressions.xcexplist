@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "EventIndexViewController.tableView(_:titleForHeaderInSection:):EventIndexViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in CustomPageViewController.viewDidLoad():CustomPageViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "OptionCell.addModal():OptionCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "doneButton.frame">
+            </PersistentString>
+            <PersistentString
+               value = "blurEffectView.frame">
+            </PersistentString>
+            <PersistentString
+               value = "doneButton.titleLabel.frame">
+            </PersistentString>
+            <PersistentString
+               value = "optionLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SettingsViewController.tableView(_:cellForRowAt:):SettingsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.heightAnchor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "send(url:userData:):Datastore.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "req.httpBody">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "prepareDatesForTableView(history:):TimeHandlers.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NewEventViewController.didInitSave(_:):NewEventViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "newEventTitle.text">
+            </PersistentString>
+            <PersistentString
+               value = "descriptionCell.descriptionTextField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EventIndexViewController.prepDataForPresentation():EventIndexViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "OptionCell.optionInitChange(_:):OptionCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "EventIndexViewController.tableView(_:willDisplayHeaderView:forSection:):EventIndexViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tableView.leadingAnchor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CustomPageViewController.scrollViewDidScroll(_:):CustomPageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "scrollView.contentOffset">
+            </PersistentString>
+            <PersistentString
+               value = "scrollView.frame">
+            </PersistentString>
+            <PersistentString
+               value = "scrollView.contentSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EventIndexViewController.tableView(_:numberOfRowsInSection:):EventIndexViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "EventIndexViewController.updateHistory(_:):EventIndexViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CustomPageViewController.viewDidLoad():CustomPageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "view.superview">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OptionCell.awakeFromNib():OptionCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SettingsViewController.textFieldShouldReturn(_:):SettingsViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
